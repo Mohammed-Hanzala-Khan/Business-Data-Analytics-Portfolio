@@ -19,3 +19,9 @@ Profit
 ## Visualization & Analysis
 ### Power BI dashboard 
 - <a href="https://github.com/Mohammed-Hanzala-Khan/Business-Data-Analytics-Portfolio/blob/main/SKLAXIS%20Powe%20Bi%20dashboard.png">Stock Optimization Dashboard</a>
+-- Visualizes gaming peripheral stock optimization for SKLAXIS.
+-- Shows brand share (Logitech, Razer, Corsair, SteelSeries, HyperX) for market analysis.
+-- Displays average rating by brand to identify high-performing products.
+-- Price vs. review volume scatterplot to analyze pricing vs. customer engagement.
+-- Interactive filters for company, rating, product type, and price range.
+-- Provides stock recommendations based on price and high ratings (5.0).
