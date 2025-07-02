@@ -25,3 +25,8 @@ Profit
 * Price vs. review volume scatterplot to analyze pricing vs. customer engagement.
 * Interactive filters for company, rating, product type, and price range.
 * Provides stock recommendations based on price and high ratings (5.0).
+
+### Linear Regression - R^2:** 0.92
+<a href="https://github.com/Mohammed-Hanzala-Khan/Business-Data-Analytics-Portfolio/blob/main/Snapshot%20of%20Linear%20regression%20-%20Retail%20Price%201%2007-09-2023%20at%203.57.33%20AM.png">Linear regression Model</a>
+* Conducted to determine variables affecting a products 'retail price'
+* Identified Cost, profit, quantity ordered, discount, and sesionality as significant factors influencing retail Price(R2)
