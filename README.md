@@ -18,3 +18,4 @@ Profit
 
 ## Visualization & Analysis
 ### Power BI dashboard 
+- <a href="https://github.com/Mohammed-Hanzala-Khan/Business-Data-Analytics-Portfolio/blob/main/SKLAXIS%20Powe%20Bi%20dashboard.png">Stock Optimization Dashboard</a>
