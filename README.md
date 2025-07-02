@@ -41,7 +41,7 @@ Profit
 
 ### Dataset 2
 ### Gradient Boosting
-<a href="[https://github.com/Mohammed-Hanzala-Khan/Business-Data-Analytics-Portfolio/blob/main/Snapshot%20of%20Gradient%20boosting%20-%20Rating%201%2007-09-2023%20at%203.31.32%20AM.png](https://github.com/Mohammed-Hanzala-Khan/Business-Data-Analytics-Portfolio/blob/main/image_2025-07-02_234432642.png)">Gradient Boosting Model</a>
+<a href="https://github.com/Mohammed-Hanzala-Khan/Business-Data-Analytics-Portfolio/blob/main/image_2025-07-02_234432642.png">Gradient Boosting Model</a>
 
 
   
