@@ -33,15 +33,20 @@ Profit
 * Performed to analyze the factors influencing product rating using 50 trees
 * Importance of price, and review volume were highlighted
 
+### Dataset 2
+
 ### Linear Regression (R^2 :0.92)
 <a href="https://github.com/Mohammed-Hanzala-Khan/Business-Data-Analytics-Portfolio/blob/main/Snapshot%20of%20Linear%20regression%20-%20Retail%20Price%201%2007-09-2023%20at%203.57.33%20AM.png">Linear regression Model</a>
 
 * Conducted to determine variables affecting a products 'retail price'
 * Identified Cost, profit, quantity ordered, discount, and sesionality as significant factors influencing retail Price
 
-### Dataset 2
-### Gradient Boosting
+
+### Gradient Boosting (F1 = 0.880, 50 trees)
 <a href="https://github.com/Mohammed-Hanzala-Khan/Business-Data-Analytics-Portfolio/blob/main/image_2025-07-02_234432642.png">Gradient Boosting Model</a>
+
+* Conducted to identify the variables affecting an order type (Online or Physical)
+* The insights gained from this analysis show us that the country in which a customer is located (score of 1186.3988) highly influences the type of order they would use. The product category was second in the hierarchy of importance with a score of 1052.5160 letting us know that the type of product influences a customer’s order type. The product group came in third with a score of 564.1060. The remaining variables are In the following hierarchy order Region name (1959466), state name (108.5353), product line (51.1445), year (44.2233), month (27.3823), quarter (20.5097), retail price (1.0928), and Product name (0.3576).
 
 
   
