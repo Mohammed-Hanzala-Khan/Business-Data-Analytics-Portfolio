@@ -48,5 +48,14 @@ Profit
 * Conducted to identify the variables affecting an order type (Online or Physical)
 * The insights gained from this analysis show us that the country in which a customer is located (score of 1186.3988) highly influences the type of order they would use. The product category was second in the hierarchy of importance with a score of 1052.5160 letting us know that the type of product influences a customer’s order type. The product group came in third with a score of 564.1060. The remaining variables are In the following hierarchy order Region name (1959466), state name (108.5353), product line (51.1445), year (44.2233), month (27.3823), quarter (20.5097), retail price (1.0928), and Product name (0.3576).
 
+### Deep Learning
+
+<a href="https://github.com/Mohammed-Hanzala-Khan/Business-Data-Analytics-Portfolio/blob/main/Screenshot%202023-07-09%20at%205.15.16%20PM.png">Deep Learning model 1</a>
+<a href="https://github.com/Mohammed-Hanzala-Khan/Business-Data-Analytics-Portfolio/blob/main/Screenshot%202023-07-09%20at%205.15.03%20PM.png">Deep Learning model 2</a>
+<a href="https://github.com/Mohammed-Hanzala-Khan/Business-Data-Analytics-Portfolio/blob/main/Screenshot%202023-07-09%20at%205.14.52%20PM.png">Deep Learning model 3</a>
+<a href="https://github.com/Mohammed-Hanzala-Khan/Business-Data-Analytics-Portfolio/blob/main/Screenshot%202023-07-09%20at%205.14.35%20PM.png">Deep Learning model 4</a>
+
+The Deep Learning model shows that 'Forest' is the Machine Learning model that performs the best out of the 3 with a KS score of 0.3209 using a total of 100 trees. A random forest machine learning model is a model that combines multiple decision trees to make a predictive analysis. From the above image, we can also see that continent name is the variable with the highest importance which shows similar results to gradient boost where a customer’s order type highly depends on their location. Thus, to capitalize on this, SKLAXIS need to develop their physical as well as online stores if they want to gain the maximum profits out of their gaming peripherals.
+
 
   
