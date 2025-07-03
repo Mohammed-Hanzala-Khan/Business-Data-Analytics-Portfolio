@@ -73,4 +73,5 @@ The Deep Learning model shows that 'Forest' is the Machine Learning model that p
 - Implement dynamic pricing based on cost, seasonality, and demand.
 - Expand online sales channels targeting countries with higher online order preferences while maintaining physical presence.
 - Utilize the Power BI dashboards for continuous monitoring of sales, ratings, and inventory turnover for data-driven decisions.
+- The ASC score obtained from dataset 1 for gradient boosting was very low, suggesting the requirement of further optimizastion of the data
   
