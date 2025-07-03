@@ -50,12 +50,16 @@ Profit
 
 ### Deep Learning
 
-- <a href="https://github.com/Mohammed-Hanzala-Khan/Business-Data-Analytics-Portfolio/blob/main/Screenshot%202023-07-09%20at%205.15.16%20PM.png">Deep Learning Image l 1</a>
+- <a href="https://github.com/Mohammed-Hanzala-Khan/Business-Data-Analytics-Portfolio/blob/main/Screenshot%202023-07-09%20at%205.15.16%20PM.png">Deep Learning Image 1</a>
 - <a href="https://github.com/Mohammed-Hanzala-Khan/Business-Data-Analytics-Portfolio/blob/main/Screenshot%202023-07-09%20at%205.15.03%20PM.png">Deep Learning Image 2</a>
 - <a href="https://github.com/Mohammed-Hanzala-Khan/Business-Data-Analytics-Portfolio/blob/main/Screenshot%202023-07-09%20at%205.14.52%20PM.png">Deep Learning Image 3</a>
 - <a href="https://github.com/Mohammed-Hanzala-Khan/Business-Data-Analytics-Portfolio/blob/main/Screenshot%202023-07-09%20at%205.14.35%20PM.png">Deep Learning Image 4</a>
 
 The Deep Learning model shows that 'Forest' is the Machine Learning model that performs the best out of the 3 with a KS score of 0.3209 using a total of 100 trees. A random forest machine learning model is a model that combines multiple decision trees to make a predictive analysis. From the above image, we can also see that continent name is the variable with the highest importance which shows similar results to gradient boost where a customer’s order type highly depends on their location. Thus, to capitalize on this, SKLAXIS need to develop their physical as well as online stores if they want to gain the maximum profits out of their gaming peripherals.
 
-
+## Conclusion and Recommendation
+- Stock highest-rated brands to aligh with customer preferances.
+- Implement dynamic pricing based on cost, seasonality, and demand.
+- Expand online sales channels targeting countries with higher online order preferences while maintaining physical presence.
+- Utilize the Power BI dashboards for continuous monitoring of sales, ratings, and inventory turnover for data-driven decisions.
   
