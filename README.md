@@ -2,18 +2,29 @@
 ## Project Objective
 To derive SKLAXIS's success in the gaming peripheral market using machine learning and Power BI to optimize product selection, pricing, and stock management through data-driven insights
 
-## Dataset 1 Used (Collected Using Octoparse from Amazon.com)
+## Dataset
+### Collection
+### Dataset 1
 <a href="https://github.com/Mohammed-Hanzala-Khan/Business-Data-Analytics-Portfolio/blob/main/SKLAXIS's%20Store%20Raw%20Data.xlsx">Dataset</a>
+- Collected using Octoparse from Amazon.com
 
-## Dataset 2 
-'PRODUCTANALYSIS' dataset from SAS Viya, containing 951.7K rows with variables including-
-Price
-Cost
-Discount
-Quantity
-Order Type
-Region
-Profit
+### Dataset 2 
+'PRODUCTANALYSIS' dataset consistting of 
+- Price
+- Cost
+- Discount
+- Quantity
+- Order Type
+- Region
+- Profit
+Collected from SAS Viyas's datasets
+
+## Dataset Cleaning
+Dataset 1 was imported into excel for cleaning, whilst dataset 2 was cleaned using SAS Viya, the dataset cleaning process involved - 
+- Removing irrelevant columns
+- Revmoing rows with critical missing values (Price, rating)
+- Removing duplicate product titles
+- Adjusting for outliers
 
 
 ## Visualization & Analysis
