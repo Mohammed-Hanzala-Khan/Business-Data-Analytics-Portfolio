@@ -8,7 +8,7 @@
 - Octoparse for web scraping Amazon data
 - Machine Learning models: Gradient Boosting, Linear Regression, Random Forest
 
-## Table of Contents
+## 📋 Table of Contents
 - [Project Objective](#project-objective)
 - [Dataset](#dataset)
 - [Dataset Cleaning](#dataset-cleaning)
