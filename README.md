@@ -1,4 +1,12 @@
 # SKLAXIS-Store-Data-Analysis
+## 📋 Table of Contents
+- [Project Objective](#project-objective)
+- [Dataset](#dataset)
+- [Dataset Cleaning](#dataset-cleaning)
+- [Visualization & Analysis](#visualization--analysis)
+- [Conclusion & Recommendations](#conclusion--recommendations)
+
+
 ## Project Objective
 To derive SKLAXIS's success in the gaming peripheral market using machine learning and Power BI to optimize product selection, pricing, and stock management through data-driven insights
 
